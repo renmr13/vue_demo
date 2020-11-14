@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    测试新分支提交功能   
     <router-view/>
   </div>
 </template>
