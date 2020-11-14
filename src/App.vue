@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    测试新分支提交功能   ;test
+    测试新分支提交功能   ;test   
     <router-view/>
   </div>
 </template>
